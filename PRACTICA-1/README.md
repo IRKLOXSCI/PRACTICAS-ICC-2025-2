@@ -1,4 +1,4 @@
-# ICC-PRACTICA-1
+# PRACTICA-1
 Alumno: Bautista Bautista Irving Alberto
 Número de Cuenta: 423050914
 
